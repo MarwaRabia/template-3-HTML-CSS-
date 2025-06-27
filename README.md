@@ -73,7 +73,7 @@ All components are designed to be responsive on different screen sizes:
 
 ## Deploying my project
 
-- [Live Site URL](https://fylo-data-storage-component-five-sigma.vercel.app/)
+- [Live Site URL](https://template-3-html-css-flax.vercel.app/#work-steps)
 
 ## Acknowledgments
 
